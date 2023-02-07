@@ -339,7 +339,6 @@ body.light-theme{
   justify-self: center;
   border-radius: 10rem 10rem 1rem 1rem;
   display: flex;
-  align-items: flex-end;
   justify-content: center;
   overflow: hidden;
 }
